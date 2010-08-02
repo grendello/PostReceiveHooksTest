@@ -1,7 +1,9 @@
 This is a
-file
-with some
+file that contains
+some
 test
 content
-Let's change some text here
+Let's change contents
+
+New text
     
